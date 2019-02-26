@@ -1,18 +1,12 @@
 ---
 layout: post
 title: Spray Arm Inspection Robot
-subtitle: Automation Example
+subtitle: Robot Programming Project
 tags: [Automation, HMI, PLC, Project Manage]
 comments: false
 ---
 
-What it does
--	Takes 2 Spray Arms loaded by an existing robot
--	Picks them up and orients them
--	Presents them in a series of coordinated positions to a vision camera
--	Determines if the parts are pass or fail
--	Transfers them to a laser marking station
--	Places them on good conveyor or reject bin
+This robot is designed to operate as a fully automated inspection station for incjection molded parts coming out of a press. Parts are transferred into the inspection station by a press tending robot where they are then picked up by the inspection robot and presented to the vision camera in a series of coordinated positions. After inspection is complete parts are serialized and transferred to pass or fail collection areas.
 
 My Responsibilities
 -	Develop RAPID code for the robotic sequence and servo part grippers
