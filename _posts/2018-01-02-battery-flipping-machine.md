@@ -35,5 +35,5 @@ Programming Examples
 -	Develop user interface using customer guidelines
 
 Example PLC Code
-<iframe src="https://josh-best.github.io/img/BatteryFlippingMachine.pdf" width="100%" height="500px"> </iframe>
+<iframe src="https://josh-best.github.io/img/BatteryFlippingMachine.pdf" width="100%" height="800px"> </iframe>
 
