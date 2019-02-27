@@ -26,4 +26,12 @@ This machine takes small solid parts and performs a series of calculated drillin
 -	Develop a secured access UI for maintenance personnel and engineers
  
 #### Program Report
-<iframe src="https://josh-best.github.io/img/FerruleDrillingMachine.pdf" width="100%" height="800px"> </iframe>
+<iframe src="https://josh-best.github.io/img/FerruleDrillingMachine.pdf" width="100%" height="600px"> </iframe>
+
+#### User Interface
+- Main Screen
+![Main](https://josh-best.github.io/img/FerruleDrillingMachine_MainScreen.png)
+- Vision Screen
+![Vision](https://josh-best.github.io/img/FerruleDrillingMachine_VisionScreen.png)
+- Maint Screen
+![Maint](https://josh-best.github.io/img/FerruleDrillingMachine_MaintScreen1.png)
