@@ -10,11 +10,11 @@ Hi, I'm Josh a multi-faceted engineer with a passion for creating things and fin
 
 ### Core Skills
 
-- Robot Programming (KAREL, RAPID)
-- PLC Programming (AB and Siemens)
-- HMI User Interface Design
-- Project Management
-- Automation Engineering
+- [Robot Programming](https://josh-best.github.io/tags/#Robot%20Programming) (KAREL, RAPID)
+- [PLC Programming](https://josh-best.github.io/tags/#PLC%20Programming) (AB and Siemens)
+- [UI Design](https://josh-best.github.io/tags/#UI%20Design)
+- [Project Management](https://josh-best.github.io/tags/#Project%20Management)
+- [Automation Engineering](https://josh-best.github.io/tags/#Automation)
 - AutoCAD
 - SolidWorks
 
