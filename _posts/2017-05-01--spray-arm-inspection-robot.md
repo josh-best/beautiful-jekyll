@@ -2,7 +2,7 @@
 layout: post
 title: Spray Arm Inspection Robot
 subtitle: Robot Programming Project
-tags: [Automation, Robot Programming, Project Management]
+tags: [Project, Automation, Robot Programming, Project Management]
 comments: false
 ---
 
