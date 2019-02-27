@@ -31,3 +31,6 @@ This is an automated machine that lifts and rotates 300lb batteries from a cart 
 #### Program Report
 <iframe src="https://josh-best.github.io/img/BatteryFlippingMachine.pdf" width="100%" height="800px"> </iframe>
 
+#### User Interface Screenshots
+![Main Screen](https://josh-best.github.io/img/BatteryFlippingMachine_MainScreen.png "Main Screen")
+
