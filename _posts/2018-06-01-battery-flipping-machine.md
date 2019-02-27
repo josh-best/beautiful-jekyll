@@ -14,6 +14,8 @@ This is an automated machine that lifts and rotates 300lb batteries from a cart 
 </figure>
 <!-- blank line -->
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qJe4aFulcXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### My Responsibilities
 -	Work with a team of engineers to develop a controls design for the process
 -	Act as lead controls engineer for the project
