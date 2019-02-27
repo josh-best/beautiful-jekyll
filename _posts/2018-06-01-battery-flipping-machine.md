@@ -14,20 +14,20 @@ This is an automated machine that lifts and rotates 300lb batteries from a cart 
 </figure>
 <!-- blank line -->
 
-My Responsibilities
+#### My Responsibilities
 -	Work with a team of engineers to develop a controls design for the process
 -	Act as lead controls engineer for the project
 -	Design and draft high and low voltage electrical schematics
 -	Develop, debug and deploy the PLC (logic) and HMI (UI) programming
 -	Provide startup support and create detailed turnover documentation and manuals
 -	Control revisions for 5 subsequent machines
-
-Programming Examples
+ 
+#### Programming Examples
 -	Follow specific customer provided guidelines for program structure (pg 1)
 -	Use object-oriented programming for ease of development and debug
 -	Develop sequence of operations for machine (pg 39-62)
 -	Develop user interface using customer guidelines
 
-Example PLC Code.
+#### Program Report
 <iframe src="https://josh-best.github.io/img/BatteryFlippingMachine.pdf" width="100%" height="800px"> </iframe>
 
