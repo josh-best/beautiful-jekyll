@@ -7,7 +7,11 @@ comments: false
 ---
 
 This machine takes small solid parts and performs a series of calculated drilling cycles on them to drill various holes in them before offloading the completed parts to an inspection station. After a vision inspection the completed parts are offloaded and collected into pass-fail-rework bins at a rate of 720 per hour.
- 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vnXvuWqUFmY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 #### My Responsibilities
 -	Consult with the customer in pre-design phase to develop a controls concept for the machine
 -	Plan the interaction and timing of the various cycles and simultaneous functions
