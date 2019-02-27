@@ -2,7 +2,7 @@
 layout: post
 title: Battery Flipping Machine
 subtitle: Automation Example
-tags: [Automation, PLC Programming, UI Design, Project Management]
+tags: [Project, Automation, PLC Programming, UI Design, Project Management]
 comments: false
 ---
 
