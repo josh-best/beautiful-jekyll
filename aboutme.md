@@ -19,7 +19,7 @@ Hi, I'm Josh a multi-faceted engineer with a passion for creating things and fin
 - SolidWorks
 
 ### Professional Experience
-
+ 
 #### Industrial Automated Systems Inc. * Raleigh, NC * March 2015 - Present
 
 [IAS](http://ias-nc.com/) is an independent systems integrator that designs and builds control systems for a variety of **automation**
@@ -36,7 +36,7 @@ including pharmaceutical, cabling, food and beverage, metals, and tire rubber.
 - Evaluate and create **intuitive human interfaces** for process equipment using FactoryTalk or TIA Portal to give appropriate layers of information to operations, maintenance, and administration.
 - Use SolidWorks and/or AutoCAD to design custom mechanical components.
 - Use AutoCAD Electrical to design and draft schematics for custom electrical control panels using smart drafting technology to decrease drafting time by 25%.
-
+ 
 #### West Key Consulting * Raleigh, NC * September 2011 - March 2015
 
 [West Key](http://www.westkeyconsulting.com/) is a small consulting firm in Raleigh that offers full service plumbing, mechanical, and electrical design. West Key specializes in providing complete, working designs for retail, commercial, industrial, and multi-family
@@ -55,6 +55,7 @@ volume HVAC designs
 ### Education
 
 Bachelor of Science in Mechanical Engineering (3.16 GPA)
+
 NORTH CAROLINA STATE UNIVERSITY * Raleigh, NC * 2014
 
 ### Hobbies
