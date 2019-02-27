@@ -25,4 +25,4 @@ This machine takes small solid parts and performs a series of calculated drillin
 -	Develop a functional and simplified user interface for the operator
 -	Develop a secured access UI for maintenance personnel and engineers
 
-<iframe src="https://josh-best.github.io/img/BatteryFlippingMachine.pdf" width="100%" height="800px"> </iframe>
+<iframe src="https://josh-best.github.io/img/FerruleDrillingMachine.pdf" width="100%" height="800px"> </iframe>
