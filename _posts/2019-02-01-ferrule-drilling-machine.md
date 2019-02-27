@@ -7,7 +7,7 @@ comments: false
 ---
 
 This machine takes small solid parts and performs a series of calculated drilling cycles on them to drill various holes in them before offloading the completed parts to an inspection station. After a vision inspection the completed parts are offloaded and collected into pass-fail-rework bins at a rate of 720 per hour.
-
+ 
 #### My Responsibilities
 -	Consult with the customer in pre-design phase to develop a controls concept for the machine
 -	Plan the interaction and timing of the various cycles and simultaneous functions
@@ -15,7 +15,7 @@ This machine takes small solid parts and performs a series of calculated drillin
 -	Develop and test code in a highly organized manner while the machine is being built
 -	Commission and debug the machine in a methodical “bite-size” manner
 -	Adjust features and timing as requested by the end customer
-
+ 
 #### Programming Examples
 -	Overall program structure that is easy to follow and maintain (pg 1)
 -	Use object-oriented programming techniques where possible for ease of programming and troubleshooting (pg 36)
@@ -24,5 +24,6 @@ This machine takes small solid parts and performs a series of calculated drillin
 -	Inspection of complete parts (pg 189-197)
 -	Develop a functional and simplified user interface for the operator
 -	Develop a secured access UI for maintenance personnel and engineers
-
+ 
+#### Program Report
 <iframe src="https://josh-best.github.io/img/FerruleDrillingMachine.pdf" width="100%" height="800px"> </iframe>
