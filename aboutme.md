@@ -20,14 +20,13 @@ Hi, I'm Josh a multi-faceted engineer with a passion for creating things and fin
 
 ### Professional Experience
  
+ 
 #### Industrial Automated Systems Inc. * Raleigh, NC * March 2015 - Present
-
 [IAS](http://ias-nc.com/) is an independent systems integrator that designs and builds control systems for a variety of **automation**
 and information applications. IAS produces turn-key solutions for its clients in a wide range of industries
 including pharmaceutical, cabling, food and beverage, metals, and tire rubber.
 
 #### Automation Engineer at Industrial Automated Systems
-
 - Work as a part of a team to conceptualize, design, program, and install complex process control systems for a wide variety of industries to help clients achieve higher throughput, increase safety, or increase efficiency.
 - Use object oriented programming concepts to create custom logic programs for process controllers using all versions of Allen Bradley / Rockwell Automation (RSLogix 500 - Studio 5000) or Siemens (Step 7 - TIA Portal v14).
 - Serve as a lead project manager for an average of 15 projects per year
@@ -37,8 +36,8 @@ including pharmaceutical, cabling, food and beverage, metals, and tire rubber.
 - Use SolidWorks and/or AutoCAD to design custom mechanical components.
 - Use AutoCAD Electrical to design and draft schematics for custom electrical control panels using smart drafting technology to decrease drafting time by 25%.
  
+ 
 #### West Key Consulting * Raleigh, NC * September 2011 - March 2015
-
 [West Key](http://www.westkeyconsulting.com/) is a small consulting firm in Raleigh that offers full service plumbing, mechanical, and electrical design. West Key specializes in providing complete, working designs for retail, commercial, industrial, and multi-family
 residential facilities.
 
@@ -52,10 +51,13 @@ volume HVAC designs
 - Use fluid mechanics to calculate ductwork and piping sizes.
 - Coordinate with outside engineers and end clients to ensure project needs are met.
 
+
 ### Education
+
 
 #### North Carolina State University * Raleigh, NC * 2014
 Bachelor of Science in Mechanical Engineering (3.16 GPA)
+
 
 ### Hobbies
 - Travelling, "Making," Basketball, Golf
