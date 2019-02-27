@@ -7,6 +7,8 @@ comments: false
 ---
 
 This robot is designed to operate as a fully automated inspection station for incjection molded parts coming out of a press. Parts are transferred into the inspection station by a press tending robot where they are then picked up by the inspection robot and presented to the vision camera in a series of coordinated positions. After inspection is complete parts are serialized and transferred to pass or fail collection areas.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QvaTsTli_gc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 #### My Responsibilities
 -	Develop RAPID code for the robotic sequence and servo part grippers
