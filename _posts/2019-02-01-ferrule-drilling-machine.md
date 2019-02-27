@@ -6,15 +6,9 @@ tags: [Automation, HMI, PLC, Project Manage]
 comments: false
 ---
 
-What it does
--	Takes ferrules (description)
--	loads them on a table
--	performs a series of calculated drilling cycles
--	offload them for a vision inspection
--	collects them based on inspection results
--	Target rate of 720 parts per hour
+This machine takes small solid parts and performs a series of calculated drilling cycles on them to drill various holes in them before offloading the completed parts to an inspection station. After a vision inspection the completed parts are offloaded and collected into pass-fail-rework bins at a rate of 720 per hour.
 
-My Responsibilities
+#### My Responsibilities
 -	Consult with the customer in pre-design phase to develop a controls concept for the machine
 -	Plan the interaction and timing of the various cycles and simultaneous functions
 -	Plan and develop the Human-Machine Interface (HMI) program with 4 separate access levels (operator, supervisor, engineer, machine builder)
@@ -22,7 +16,7 @@ My Responsibilities
 -	Commission and debug the machine in a methodical “bite-size” manner
 -	Adjust features and timing as requested by the end customer
 
-Programming Examples
+#### Programming Examples
 -	Overall program structure that is easy to follow and maintain (pg 1)
 -	Use object-oriented programming techniques where possible for ease of programming and troubleshooting (pg 36)
 -	Calculation of pecking drilling positions for servos (pg 113-117)
