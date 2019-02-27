@@ -54,9 +54,8 @@ volume HVAC designs
 
 ### Education
 
+#### North Carolina State University * Raleigh, NC * 2014
 Bachelor of Science in Mechanical Engineering (3.16 GPA)
-
-NORTH CAROLINA STATE UNIVERSITY * Raleigh, NC * 2014
 
 ### Hobbies
 - Travelling, "Making," Basketball, Golf
