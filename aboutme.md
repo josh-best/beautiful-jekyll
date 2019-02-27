@@ -22,7 +22,7 @@ Hi, I'm Josh a multi-faceted engineer with a passion for creating things and fin
 
 #### Industrial Automated Systems Inc. * Raleigh, NC * March 2015 - Present
 
-IAS is an independent systems integrator that designs and builds control systems for a variety of **automation**
+[IAS](http://ias-nc.com/) is an independent systems integrator that designs and builds control systems for a variety of **automation**
 and information applications. IAS produces turn-key solutions for its clients in a wide range of industries
 including pharmaceutical, cabling, food and beverage, metals, and tire rubber.
 
@@ -37,11 +37,25 @@ including pharmaceutical, cabling, food and beverage, metals, and tire rubber.
 - Use SolidWorks and/or AutoCAD to design custom mechanical components.
 - Use AutoCAD Electrical to design and draft schematics for custom electrical control panels using smart drafting technology to decrease drafting time by 25%.
 
-### old page stuff
+#### West Key Consulting * Raleigh, NC * September 2011 - March 2015
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+[West Key](http://www.westkeyconsulting.com/) is a small consulting firm in Raleigh that offers full service plumbing, mechanical, and electrical design. West Key specializes in providing complete, working designs for retail, commercial, industrial, and multi-family
+residential facilities.
 
-What else do you need?
+#### Mechanical and Plumbing Systems Designer
+- Design mechanical and plumbing systems for a variety of commercial construction/renovation
+projects such as offices, restaurants, clubhouses, and retail spaces
+- Frequent experience with split-system, packaged, ductless, constant air volume, and variable air
+volume HVAC designs
+- Use AutoCAD to draft designs into official drawings for municipal permits and construction.
+- Run detailed thermal load calculations for sizing of heating and cooling units.
+- Use fluid mechanics to calculate ductwork and piping sizes.
+- Coordinate with outside engineers and end clients to ensure project needs are met.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Education
+
+Bachelor of Science in Mechanical Engineering (3.16 GPA)
+NORTH CAROLINA STATE UNIVERSITY * Raleigh, NC * 2014
+
+### Hobbies
+- Travelling, "Making," Basketball, Golf
