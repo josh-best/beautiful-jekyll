@@ -18,5 +18,5 @@ This robot is designed to operate as a fully automated inspection station for in
 -	Create objects for repetitive tasks to cut down on program size
 -	Develop user-friendly error auto error recovery code 
 
-
+<iframe src="https://josh-best.github.io/img/FerruleDrillingMachine.pdf" width="100%" height="800px"> </iframe>
 
