@@ -2,7 +2,7 @@
 layout: post
 title: Ferrule Drilling Machine
 subtitle: Automation Example
-tags: [Automation, HMI, PLC, Project Manage]
+tags: [Automation, PLC Programming, UI Design, Project Management]
 comments: false
 ---
 
