@@ -8,12 +8,6 @@ comments: false
 
 This is an automated machine that lifts and rotates 300lb batteries from a cart so that technicians can safety and easily install hardware on the backplate. The machine has several automatic features programmed in such as automatic cycle abort if a safety issue is detected, and automatic lift and rotate positons and velocities. Check out the video below for a typical cycle.
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qJe4aFulcXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### My Responsibilities
