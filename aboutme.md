@@ -6,15 +6,19 @@ subtitle: Resume
 
 ### Summary
 
-Hi, I'm Josh a multi-faceted engineer with a passion for creating things and finding solutions to real-world problems. I am a mechanical engineer by degree but I love to program 
+Hi, I'm Josh a multi-faceted engineer with a passion for creating things and finding solutions to real-world problems. I am a mechanical engineer by degree but I love to program and have an excellent understanding of algorithim creation and mathmatics. I have a proven ability to learn on-the-job with a high level of speed and thoroughness. I am a diligent worker and work well in either a team environment or individual task environment to complete complex projects. 
 
 ### Core Skills
 
 - [Robot Programming](https://josh-best.github.io/tags/#Robot%20Programming) (KAREL, RAPID)
 - [PLC Programming](https://josh-best.github.io/tags/#PLC%20Programming) (AB and Siemens)
 - [UI Design](https://josh-best.github.io/tags/#UI%20Design)
+- Algorithim Creation
+- Mathmatics
 - [Project Management](https://josh-best.github.io/tags/#Project%20Management)
 - [Automation Engineering](https://josh-best.github.io/tags/#Automation)
+- Java
+- Matlab
 - AutoCAD
 - SolidWorks
 
@@ -51,7 +55,6 @@ volume HVAC designs
 - Use fluid mechanics to calculate ductwork and piping sizes.
 - Coordinate with outside engineers and end clients to ensure project needs are met.
 
-
 ### Education
 
 
@@ -59,5 +62,9 @@ volume HVAC designs
 Bachelor of Science in Mechanical Engineering (3.16 GPA)
 
 
-### Hobbies
-- Travelling, "Making," Basketball, Golf
+### A little more about me outside of work
+- I love to travel new places with my wife (and [blog](https://www.bestcaptured.net/) about them)
+- I like to play sports mainly basketball and golf
+- I'm a 3D printing hobbiest
+- I tend to value extra time over extra income
+- I enjoy spending time outdoors either hiking, camping, or fishing
