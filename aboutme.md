@@ -6,7 +6,7 @@ subtitle: Resume
 
 ### Summary
 
-Hi, I'm Josh a multi-faceted engineer with a passion for creating things and finding solutions to real-world problems. I am a mechanical engineer by degree but I love to program and have an excellent understanding of algorithim creation and mathmatics. I have a proven ability to learn on-the-job with a high level of speed and thoroughness. I am a diligent worker and work well in either a team environment or individual task environment to complete complex projects. 
+Hi, I'm Josh a multi-faceted engineer with a passion for creating things and finding solutions to real-world problems. I am a mechanical engineer by degree but I love to program and have an excellent understanding of algorithm creation and mathematics. I have a proven ability to learn on-the-job with a high level of speed and thoroughness. I am a diligent worker and work well in either a team environment or individual task environment to complete complex projects. 
 
 ### Core Skills
 
