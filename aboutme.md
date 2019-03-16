@@ -10,17 +10,17 @@ Hi, I'm Josh a multi-faceted engineer with a passion for creating things and fin
 
 ### Core Skills
 
-- [Robot Programming](https://josh-best.github.io/tags/#Robot%20Programming) (KAREL, RAPID) | 8/10
-- [PLC Programming](https://josh-best.github.io/tags/#PLC%20Programming) (Ladder, ST (Pascal), Seq Function Block) | 8/10
-- [UI Design](https://josh-best.github.io/tags/#UI%20Design) | 8/10
-- Algorithim Creation | 7/10
-- Mathmatics | 7/10
-- [Project Management](https://josh-best.github.io/tags/#Project%20Management) | 8/10
-- [Automation Engineering](https://josh-best.github.io/tags/#Automation) | 8/10
-- Java | 5/10
-- Matlab | 6/10
-- AutoCAD | 9/10
-- SolidWorks | 7/10
+- [Robot Programming](https://josh-best.github.io/tags/#Robot%20Programming) (KAREL, RAPID)  8/10
+- [PLC Programming](https://josh-best.github.io/tags/#PLC%20Programming) (Ladder, ST (Pascal), Seq Function Block)  8/10
+- [UI Design](https://josh-best.github.io/tags/#UI%20Design)  8/10
+- Algorithim Creation  7/10
+- Mathmatics  7/10
+- [Project Management](https://josh-best.github.io/tags/#Project%20Management)  8/10
+- [Automation Engineering](https://josh-best.github.io/tags/#Automation)  8/10
+- Java  5/10
+- Matlab  6/10
+- AutoCAD  9/10
+- SolidWorks  7/10
 
 ### Professional Experience
  
